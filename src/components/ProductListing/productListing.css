@@ -1,0 +1,29 @@
+
+.listing {
+    width: 25%;
+    max-width:200px;;
+    display:flex;
+    flex-direction: column;
+    padding:0.5rem;
+}
+ .image{
+    flex:1;
+ }
+.product {
+    color:#333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+._name {
+    font-size: 14px;
+    margin:6px 0
+}
+
+._price {
+    font-size: 10px;
+    margin: 0;
+}
+
+
+
+
+ 
